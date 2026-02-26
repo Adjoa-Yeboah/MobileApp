@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29853783417",
+    "project_id": "veggiemart-7271f",
+    "storage_bucket": "veggiemart-7271f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29853783417:android:e51000d2590396eb150ba8",
+        "android_client_info": {
+          "package_name": "com.example.week5_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnuxqLhM776YoGIPLqtloNsN8urjtlCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
