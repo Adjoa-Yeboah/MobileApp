@@ -1,0 +1,211 @@
+Analyzing midsem_exam...
+
+  error - lib\main.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\main.dart:2:8 - Target of URI doesn't exist: 'package:firebase_core/firebase_core.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\main.dart:7:3 - Undefined name 'WidgetsFlutterBinding'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\main.dart:12:11 - Undefined name 'Firebase'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\main.dart:14:5 - The function 'debugPrint' isn't defined. Try importing the library that defines 'debugPrint', correcting the name to the name of an existing function, or defining a function named 'debugPrint'. - undefined_function
+  error - lib\main.dart:17:3 - The function 'runApp' isn't defined. Try importing the library that defines 'runApp', correcting the name to the name of an existing function, or defining a function named 'runApp'. - undefined_function
+  error - lib\main.dart:20:21 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - lib\main.dart:21:22 - No associated named super constructor parameter. Try changing the name to the name of an existing named super constructor parameter, or creating such named parameter. - super_formal_parameter_without_associated_named
+  error - lib\main.dart:24:3 - Undefined class 'Widget'. Try changing the name to the name of an existing class, or creating a class with the name 'Widget'. - undefined_class
+  error - lib\main.dart:24:16 - Undefined class 'BuildContext'. Try changing the name to the name of an existing class, or creating a class with the name 'BuildContext'. - undefined_class
+  error - lib\main.dart:25:12 - The method 'MaterialApp' isn't defined for the type 'MyApp'. Try correcting the name to the name of an existing method, or defining a method named 'MaterialApp'. - undefined_method
+  error - lib\main.dart:28:14 - The method 'ThemeData' isn't defined for the type 'MyApp'. Try correcting the name to the name of an existing method, or defining a method named 'ThemeData'. - undefined_method
+  error - lib\main.dart:29:22 - Undefined name 'ColorScheme'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\main.dart:29:54 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\screens\login_screen.dart:5:27 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - lib\screens\login_screen.dart:6:9 - Undefined class 'TextEditingController'. Try changing the name to the name of an existing class, or creating a class with the name 'TextEditingController'. - undefined_class
+  error - lib\screens\login_screen.dart:6:50 - The method 'TextEditingController' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'TextEditingController'. - undefined_method
+  error - lib\screens\login_screen.dart:7:9 - Undefined class 'TextEditingController'. Try changing the name to the name of an existing class, or creating a class with the name 'TextEditingController'. - undefined_class
+  error - lib\screens\login_screen.dart:7:53 - The method 'TextEditingController' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'TextEditingController'. - undefined_method
+  error - lib\screens\login_screen.dart:9:22 - No associated named super constructor parameter. Try changing the name to the name of an existing named super constructor parameter, or creating such named parameter. - super_formal_parameter_without_associated_named
+  error - lib\screens\login_screen.dart:12:3 - Undefined class 'Widget'. Try changing the name to the name of an existing class, or creating a class with the name 'Widget'. - undefined_class
+  error - lib\screens\login_screen.dart:12:16 - Undefined class 'BuildContext'. Try changing the name to the name of an existing class, or creating a class with the name 'BuildContext'. - undefined_class
+  error - lib\screens\login_screen.dart:13:12 - The method 'Scaffold' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Scaffold'. - undefined_method
+  error - lib\screens\login_screen.dart:14:15 - The method 'AppBar' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'AppBar'. - undefined_method
+  error - lib\screens\login_screen.dart:15:22 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:16:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:17:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:19:13 - The method 'Padding' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Padding'. - undefined_method
+  error - lib\screens\login_screen.dart:20:24 - Undefined name 'EdgeInsets'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:21:16 - The method 'Column' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Column'. - undefined_method
+  error - lib\screens\login_screen.dart:22:30 - Undefined name 'MainAxisAlignment'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:25:13 - The method 'TextField' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'TextField'. - undefined_method
+  error - lib\screens\login_screen.dart:27:33 - The name 'InputDecoration' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:29:25 - The method 'OutlineInputBorder' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'OutlineInputBorder'. - undefined_method
+  error - lib\screens\login_screen.dart:31:29 - Undefined name 'TextInputType'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:33:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:35:13 - The method 'TextField' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'TextField'. - undefined_method
+  error - lib\screens\login_screen.dart:37:33 - The name 'InputDecoration' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:39:25 - The method 'OutlineInputBorder' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'OutlineInputBorder'. - undefined_method
+  error - lib\screens\login_screen.dart:43:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:45:13 - The method 'ElevatedButton' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'ElevatedButton'. - undefined_method
+  error - lib\screens\login_screen.dart:48:17 - The method 'debugPrint' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'debugPrint'. - undefined_method
+  error - lib\screens\login_screen.dart:49:17 - The method 'debugPrint' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'debugPrint'. - undefined_method
+  error - lib\screens\login_screen.dart:50:17 - Undefined name 'ScaffoldMessenger'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:51:25 - The name 'SnackBar' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:51:43 - The method 'Text' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\login_screen.dart:54:22 - Undefined name 'ElevatedButton'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:55:36 - The name 'Size' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:57:28 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:59:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\login_screen.dart:61:13 - The method 'TextButton' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'TextButton'. - undefined_method
+  error - lib\screens\login_screen.dart:63:17 - Undefined name 'Navigator'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\login_screen.dart:65:19 - The method 'MaterialPageRoute' isn't defined for the type 'LoginScreen'. Try correcting the name to the name of an existing method, or defining a method named 'MaterialPageRoute'. - undefined_method
+  error - lib\screens\login_screen.dart:68:28 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:1:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\screens\profile_screen.dart:6:29 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - lib\screens\profile_screen.dart:7:30 - No associated named super constructor parameter. Try changing the name to the name of an existing named super constructor parameter, or creating such named parameter. - super_formal_parameter_without_associated_named
+  error - lib\screens\profile_screen.dart:10:3 - Undefined class 'Widget'. Try changing the name to the name of an existing class, or creating a class with the name 'Widget'. - undefined_class
+  error - lib\screens\profile_screen.dart:10:16 - Undefined class 'BuildContext'. Try changing the name to the name of an existing class, or creating a class with the name 'BuildContext'. - undefined_class
+  error - lib\screens\profile_screen.dart:19:12 - The method 'Scaffold' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Scaffold'. - undefined_method
+  error - lib\screens\profile_screen.dart:20:15 - The method 'AppBar' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'AppBar'. - undefined_method
+  error - lib\screens\profile_screen.dart:21:22 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:22:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:23:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:25:13 - The method 'Padding' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Padding'. - undefined_method
+  error - lib\screens\profile_screen.dart:26:24 - Undefined name 'EdgeInsets'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:27:16 - The method 'Column' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Column'. - undefined_method
+  error - lib\screens\profile_screen.dart:30:13 - The method 'CircleAvatar' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'CircleAvatar'. - undefined_method
+  error - lib\screens\profile_screen.dart:32:32 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:33:22 - The method 'Text' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\profile_screen.dart:35:30 - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:35:61 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:38:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:40:13 - The method 'Card' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Card'. - undefined_method
+  error - lib\screens\profile_screen.dart:42:22 - The method 'RoundedRectangleBorder' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'RoundedRectangleBorder'. - undefined_method
+  error - lib\screens\profile_screen.dart:42:59 - Undefined name 'BorderRadius'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:43:22 - The method 'Padding' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Padding'. - undefined_method
+  error - lib\screens\profile_screen.dart:44:32 - Undefined name 'EdgeInsets'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:45:24 - The method 'Column' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Column'. - undefined_method
+  error - lib\screens\profile_screen.dart:46:39 - Undefined name 'CrossAxisAlignment'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:48:21 - The method 'Text' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\profile_screen.dart:50:36 - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:50:72 - Undefined name 'FontWeight'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:52:27 - The name 'Divider' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:53:21 - The method 'Text' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\profile_screen.dart:53:67 - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:54:27 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:55:21 - The method 'Text' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\profile_screen.dart:55:74 - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:56:27 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:57:21 - The method 'Text' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\profile_screen.dart:57:66 - The name 'TextStyle' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:62:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:64:13 - The method 'ElevatedButton' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'ElevatedButton'. - undefined_method
+  error - lib\screens\profile_screen.dart:66:22 - Undefined name 'ElevatedButton'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:66:66 - The name 'Size' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:67:28 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:69:19 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:71:13 - The method 'ElevatedButton' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'ElevatedButton'. - undefined_method
+  error - lib\screens\profile_screen.dart:74:17 - Undefined name 'Navigator'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:76:19 - The method 'MaterialPageRoute' isn't defined for the type 'ProfileScreen'. Try correcting the name to the name of an existing method, or defining a method named 'MaterialPageRoute'. - undefined_method
+  error - lib\screens\profile_screen.dart:79:22 - Undefined name 'ElevatedButton'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:80:36 - The name 'Size' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\profile_screen.dart:81:34 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:82:34 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\profile_screen.dart:84:28 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:2:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\screens\task_list_screen.dart:3:8 - Target of URI doesn't exist: 'package:shared_preferences/shared_preferences.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - lib\screens\task_list_screen.dart:7:30 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - lib\screens\task_list_screen.dart:8:31 - No associated named super constructor parameter. Try changing the name to the name of an existing named super constructor parameter, or creating such named parameter. - super_formal_parameter_without_associated_named
+  error - lib\screens\task_list_screen.dart:11:3 - Undefined class 'State'. Try changing the name to the name of an existing class, or creating a class with the name 'State'. - undefined_class
+  error - lib\screens\task_list_screen.dart:14:36 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - lib\screens\task_list_screen.dart:19:9 - Undefined class 'TextEditingController'. Try changing the name to the name of an existing class, or creating a class with the name 'TextEditingController'. - undefined_class
+  error - lib\screens\task_list_screen.dart:19:50 - The method 'TextEditingController' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextEditingController'. - undefined_method
+  error - lib\screens\task_list_screen.dart:20:9 - Undefined class 'TextEditingController'. Try changing the name to the name of an existing class, or creating a class with the name 'TextEditingController'. - undefined_class
+  error - lib\screens\task_list_screen.dart:20:51 - The method 'TextEditingController' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextEditingController'. - undefined_method
+  error - lib\screens\task_list_screen.dart:25:11 - The method 'initState' isn't defined in a superclass of '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'initState' in a superclass. - undefined_super_member
+  error - lib\screens\task_list_screen.dart:31:25 - Undefined name 'SharedPreferences'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:36:7 - The method 'setState' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'setState'. - undefined_method
+  error - lib\screens\task_list_screen.dart:42:7 - The method 'setState' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'setState'. - undefined_method
+  error - lib\screens\task_list_screen.dart:69:25 - Undefined name 'SharedPreferences'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:88:5 - The method 'showDialog' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'showDialog'. - undefined_method
+  error - lib\screens\task_list_screen.dart:89:16 - Undefined name 'context'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:91:16 - The method 'StatefulBuilder' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'StatefulBuilder'. - undefined_method
+  error - lib\screens\task_list_screen.dart:93:20 - The method 'AlertDialog' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'AlertDialog'. - undefined_method
+  error - lib\screens\task_list_screen.dart:94:28 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:95:24 - The method 'Column' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Column'. - undefined_method
+  error - lib\screens\task_list_screen.dart:96:31 - Undefined name 'MainAxisSize'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:98:19 - The method 'TextField' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextField'. - undefined_method
+  error - lib\screens\task_list_screen.dart:100:39 - The name 'InputDecoration' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:102:31 - The method 'OutlineInputBorder' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'OutlineInputBorder'. - undefined_method
+  error - lib\screens\task_list_screen.dart:105:25 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:106:19 - The method 'TextField' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextField'. - undefined_method
+  error - lib\screens\task_list_screen.dart:108:39 - The name 'InputDecoration' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:110:31 - The method 'OutlineInputBorder' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'OutlineInputBorder'. - undefined_method
+  error - lib\screens\task_list_screen.dart:113:25 - The name 'SizedBox' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:114:19 - The method 'Row' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Row'. - undefined_method
+  error - lib\screens\task_list_screen.dart:116:23 - The method 'Text' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\task_list_screen.dart:120:32 - The method 'TextStyle' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextStyle'. - undefined_method
+  error - lib\screens\task_list_screen.dart:121:58 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:121:72 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:124:29 - The name 'Spacer' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:125:23 - Undefined name 'TextButton'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:126:37 - The name 'Icon' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:126:42 - Undefined name 'Icons'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:127:38 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:129:58 - The method 'showDatePicker' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'showDatePicker'. - undefined_method
+  error - lib\screens\task_list_screen.dart:147:17 - The method 'TextButton' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextButton'. - undefined_method
+  error - lib\screens\task_list_screen.dart:148:36 - Undefined name 'Navigator'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:149:32 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:151:17 - The method 'ElevatedButton' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'ElevatedButton'. - undefined_method
+  error - lib\screens\task_list_screen.dart:156:23 - The method 'setState' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'setState'. - undefined_method
+  error - lib\screens\task_list_screen.dart:164:23 - Undefined name 'Navigator'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:167:32 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:178:3 - Undefined class 'Widget'. Try changing the name to the name of an existing class, or creating a class with the name 'Widget'. - undefined_class
+  error - lib\screens\task_list_screen.dart:178:16 - Undefined class 'BuildContext'. Try changing the name to the name of an existing class, or creating a class with the name 'BuildContext'. - undefined_class
+  error - lib\screens\task_list_screen.dart:179:12 - The method 'Scaffold' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Scaffold'. - undefined_method
+  error - lib\screens\task_list_screen.dart:180:15 - The method 'AppBar' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'AppBar'. - undefined_method
+  error - lib\screens\task_list_screen.dart:181:22 - The name 'Text' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:182:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:183:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:186:19 - The name 'Center' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:186:33 - The method 'CircularProgressIndicator' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'CircularProgressIndicator'. - undefined_method
+  error - lib\screens\task_list_screen.dart:187:13 - Undefined name 'ListView'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:191:24 - The method 'Card' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Card'. - undefined_method
+  error - lib\screens\task_list_screen.dart:192:33 - Undefined name 'EdgeInsets'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:193:26 - The method 'ListTile' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'ListTile'. - undefined_method
+  error - lib\screens\task_list_screen.dart:194:28 - The method 'Text' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\task_list_screen.dart:196:30 - The method 'TextStyle' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'TextStyle'. - undefined_method
+  error - lib\screens\task_list_screen.dart:197:37 - Undefined name 'FontWeight'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:198:55 - Undefined name 'TextDecoration'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:199:50 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:199:64 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:202:31 - The method 'Text' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Text'. - undefined_method
+  error - lib\screens\task_list_screen.dart:205:31 - The method 'Checkbox' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'Checkbox'. - undefined_method
+  error - lib\screens\task_list_screen.dart:208:25 - The method 'setState' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'setState'. - undefined_method
+  error - lib\screens\task_list_screen.dart:218:29 - The method 'FloatingActionButton' isn't defined for the type '_TaskListScreenState'. Try correcting the name to the name of an existing method, or defining a method named 'FloatingActionButton'. - undefined_method
+  error - lib\screens\task_list_screen.dart:220:26 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:222:22 - The name 'Icon' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+  error - lib\screens\task_list_screen.dart:222:27 - Undefined name 'Icons'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib\screens\task_list_screen.dart:222:45 - Undefined name 'Colors'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:8:8 - Target of URI doesn't exist: 'package:flutter/material.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - test\widget_test.dart:9:8 - Target of URI doesn't exist: 'package:flutter_test/flutter_test.dart'. Try creating the file referenced by the URI, or try using a URI for a file that does exist. - uri_does_not_exist
+  error - test\widget_test.dart:14:3 - The function 'testWidgets' isn't defined. Try importing the library that defines 'testWidgets', correcting the name to the name of an existing function, or defining a function named 'testWidgets'. - undefined_function
+  error - test\widget_test.dart:14:49 - Undefined class 'WidgetTester'. Try changing the name to the name of an existing class, or creating a class with the name 'WidgetTester'. - undefined_class
+  error - test\widget_test.dart:19:5 - The function 'expect' isn't defined. Try importing the library that defines 'expect', correcting the name to the name of an existing function, or defining a function named 'expect'. - undefined_function
+  error - test\widget_test.dart:19:12 - Undefined name 'find'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:19:28 - Undefined name 'findsOneWidget'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:20:5 - The function 'expect' isn't defined. Try importing the library that defines 'expect', correcting the name to the name of an existing function, or defining a function named 'expect'. - undefined_function
+  error - test\widget_test.dart:20:12 - Undefined name 'find'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:20:28 - Undefined name 'findsNothing'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:23:22 - Undefined name 'find'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:23:34 - Undefined name 'Icons'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:27:5 - The function 'expect' isn't defined. Try importing the library that defines 'expect', correcting the name to the name of an existing function, or defining a function named 'expect'. - undefined_function
+  error - test\widget_test.dart:27:12 - Undefined name 'find'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:27:28 - Undefined name 'findsNothing'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:28:5 - The function 'expect' isn't defined. Try importing the library that defines 'expect', correcting the name to the name of an existing function, or defining a function named 'expect'. - undefined_function
+  error - test\widget_test.dart:28:12 - Undefined name 'find'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - test\widget_test.dart:28:28 - Undefined name 'findsOneWidget'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+warning - analysis_options.yaml:10:10 - The URI 'package:flutter_lints/flutter.yaml' included in 'C:\Users\adjoa\Documents\weekly_project\midsem_exam\analysis_options.yaml' can't be found when analyzing 'C:\Users\adjoa\Documents\weekly_project\midsem_exam'. - include_file_not_found
+warning - lib\main.dart:24:10 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+warning - lib\screens\login_screen.dart:12:10 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+warning - lib\screens\profile_screen.dart:10:10 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+warning - lib\screens\task_list_screen.dart:11:25 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+warning - lib\screens\task_list_screen.dart:24:8 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+warning - lib\screens\task_list_screen.dart:178:10 - The method doesn't override an inherited method. Try updating this class to match the superclass, or removing the override annotation. - override_on_non_overriding_member
+
+207 issues found.
